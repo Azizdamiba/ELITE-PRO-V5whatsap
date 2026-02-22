@@ -1,6 +1,6 @@
 {
-  "name": "ELITE-PRO-V1",
-  "description": "A WhatsApp Bot Created by ElitePro",
+  "Nom": "seigneur walifuku alias azi Damiba",
+  "description": "une intelligence artificielle créé par Abdoul Aziz Damiba",
   "logo": "https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg",
   "keywords": ["bot", "whatsapp", "baileys", "javascript", "elitepro"],
   "success_url": "/",
@@ -16,15 +16,15 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2347047504860"
+      "value": "22653058877"
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
-      "value": "ElitePro"
+      "value": "Aziz-Fuku Damiba"
     },
     "BOT_NAME": {
       "description": "Bot display name.",
-      "value": "ELITE-PRO-V1"
+      "value": "Dziguen Dam Fouku-skæ bot Damiba v3"
     },
     "AUTO_RECORDING": {
       "description": "Enable auto-recording simulation (true or false).",
