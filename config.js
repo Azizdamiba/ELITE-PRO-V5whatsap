@@ -6,12 +6,12 @@ const chalk = require('chalk');
 global.sessionid = process.env.SESSION_ID || '';
 global.ytname = process.env.YT_NAME || "YT: @EliteProTechs";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
-global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
+global.location = process.env.LOCATION || "Burkina Faso, Boulsa";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2347047504860';
-global.ownername = process.env.OWNER_NAME || 'ElitePro';
-global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
+global.ownernumber = process.env.OWNER_NUMBER || '22653058877';
+global.ownername = process.env.OWNER_NAME || 'Abdoul Aziz Damiba';
+global.botname = process.env.BOT_NAME || 'Dziguen fuku skae de Damiba';
 
 // Default settings 
 global.prefix = process.env.PREFIX || '.';
@@ -34,23 +34,23 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 
 // Sticker details
-global.packname = process.env.PACKNAME || 'Sticker By';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2347047504860';
+global.packname = process.env.PACKNAME || 'Sticker De';
+global.author = process.env.AUTHOR || 'Abdoul Aziz Damiba\n\nContact: +22653058877';
 // Default settings 2
-global.wm = process.env.WM || "Youtube @EliteProTechs";
+global.wm = process.env.WM || "Youtube @Dziguenfuku";
 global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
 
 // Reply messages
 global.mess = {
-    done: '✅ Task completed successfully!',
-    prem: '⚠️ Access denied. This feature is for premium users only.',
-    admin: '⚠️ Admin privileges required to perform this action.',
-    botAdmin: '⚠️ I need to be an admin in this chat to execute this command.',
-    owner: '⛔ Command restricted to the bot owner.',
-    group: 'ℹ️ This command can only be used in group chats.',
-    private: 'ℹ️ This command can only be used in private chats.',
-    wait: '⏳ Processing your request... Please wait a moment.',
-    error: '❌ An unexpected error occurred. Please try again later.',
+    done: '✅ Travail successfully! maintenant je veux une bière 🍻',
+    prem: '⚠️ Access denied. cette possibilité est permise uniquement aux utilisateurs VIP de DAMIBA.',
+    admin: '⚠️ privilège de créateur vous êtes exclus.',
+    botAdmin: '⚠️ je veux être administrateur avant de valider la commande.',
+    owner: '⛔ Commande réservée à AZIZ 😐.',
+    group: 'ℹ️ cette commande ne peut être utilisée que dans un groupe.',
+    private: 'ℹ️ viens en privée exécuter cette commande voici la condition de Damiba.',
+    wait: '⏳ Dziguen traite votre demande ... Patientez un moment moment.',
+    error: '❌ une erreur a été détecté si le problème persiste contactez aziz.',
 };
 
 global.thumb = fs.readFileSync('./EliteProMedia/thumb.jpg');
