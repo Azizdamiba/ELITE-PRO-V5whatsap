@@ -1,5 +1,5 @@
 {
-  "bot-name": "ELITE-PRO-V1",
+  "bot-name": "DANAKRO AI DAMIBA",
   "description": "A WhatsApp bot with rich features",
   "logo": "http://elitepro-url-clouds.onrender.com/20250604_162827.jpg",
   "keywords": ["bot"],
@@ -18,7 +18,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2347047504860",
+      "value": "22653058877",
       "required": true
     }
   }
